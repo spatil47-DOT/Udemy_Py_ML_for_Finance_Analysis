@@ -12,7 +12,7 @@ Part2 Financial Analysis in Py :
 Part3 AI-ML in Financial Analysis:
 1) Stock price predictions [regression and LSTM]
 2) Bank Customers Segmentation Using Credit Card Data For Marketting Data Analytics [K-Means, PCA, Auto-Encoders]
-3) Stocks Sentiment Analysis For Twitter Data [RNN, LSTM]
+3) Stocks Sentiment Analysis For Twitter Data [LSTM]
 
 
 
